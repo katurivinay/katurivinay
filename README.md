@@ -1,6 +1,13 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]
-<h1 align="center">Hi 👋, I'm katuri vinay chowdary</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">👋 Hi there, I'm Katuri Vinay Chowdary, a Python developer and Computer Science undergraduate student.
+
+💻 I have experience developing applications and scripts using Python, including web applications with Flask and Django, data analysis with Pandas and NumPy.
+📚 Currently, I am learning about algorithms, data structures, and software design patterns in my Computer Science courses. I am also working on personal projects to further develop my skills and gain more experience.
+
+🌟 In my free time, I enjoy contributing to open source projects and participating in hackathons. I am always looking for new challenges and opportunities to learn.
+
+📫 Feel free to contact me at katurivinay8311@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/katuri-vinay-911861218/. I am always interested in connecting with fellow developers and discussing new ideas and projects.
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katurivinay&label=Profile%20views&color=0e75b6&style=flat" alt="katurivinay" /> </p>
 <img align = "right" alt = "coding" width = "400" src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47h6gnwq331kr67vjmvremhv0g11zvuvp7gqxhq9n3&rid=giphy.gif&ct=g">
 
