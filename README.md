@@ -6,7 +6,7 @@
 
 🌟 In my free time, I enjoy contributing to open source projects and participating in hackathons. I am always looking for new challenges and opportunities to learn.
 
-📫 Feel free to contact me at katurivinay8311@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/katuri-vinay-911861218/. I am always interested in connecting with fellow developers and discussing new ideas and projects.
+📫 Feel free to contact me at katurivinay8311@gmail.com or connect with me on LinkedIn. I am always interested in connecting with fellow developers and discussing new ideas and projects.
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katurivinay&label=Profile%20views&color=0e75b6&style=flat" alt="katurivinay" /> </p>
 <img align = "right" alt = "coding" width = "400" src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47h6gnwq331kr67vjmvremhv0g11zvuvp7gqxhq9n3&rid=giphy.gif&ct=g">
